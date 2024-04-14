@@ -6,3 +6,4 @@ This repository is built step by step in the tutorial.
 make some changes in GitHub to see what will happen
 
 After fitch and merge, now we try pull command
+Add a new line
